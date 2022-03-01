@@ -17,6 +17,7 @@ namespace ChushkaMiro
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
